@@ -228,7 +228,7 @@ fn interruptus() {
 - [x] btc/usdt较波动平稳，无法开仓，综合多次实验考虑，选择huobi doge/usdt进行回测
 - [x] 完成收益计算
 
-[过程记录2](https://github.com/snowflowersnowflake/rust_exercize/blob/main/%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%952.pdf)
+[过程记录2](https://github.com/snowflowersnowflake/rust_exercise/blob/main/%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%952.pdf)
 
 ```rust
 use std::io::prelude::*;
