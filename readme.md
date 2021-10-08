@@ -76,7 +76,7 @@ dump纳秒时间戳 '\t' shmId '\t' 交易所 '\t' preCoin '\t' postCoin '\t' �
 
 如果想进一步优化就要考虑语义相似度，可以引用诸如bert之类的nlp深度学习模型进行解决。
 ```
-制作中间过程和程序运行结果可以参考[过程记录1](https://github.com/snowflowersnowflake/rust_exercize/blob/main/%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%951.pdf)
+制作中间过程和程序运行结果可以参考[过程记录1](https://github.com/snowflowersnowflake/rust_exercise/blob/main/%E8%BF%87%E7%A8%8B%E8%AE%B0%E5%BD%951.pdf)
 
 主函数文件： 
 ```rust
